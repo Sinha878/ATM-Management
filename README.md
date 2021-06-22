@@ -11,3 +11,6 @@ User can perform the following operations:
 # IDE USED:
 IDE is the abbreviation of integrated developement environment.It is the environment where we write the source code and test run the program to check weather the output is correct or not.
 I used Dev C++ as my IDE.
+# Screenshot of the running project :
+![image](https://user-images.githubusercontent.com/64796137/122948184-5802cb80-d398-11eb-8230-95e11193be51.png)
+![image](https://user-images.githubusercontent.com/64796137/122948399-8385b600-d398-11eb-8349-766c1ac9bd83.png)
